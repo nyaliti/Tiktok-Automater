@@ -39,7 +39,7 @@
 2. This Python project is simply an automator with selenium for a website I do not own.
 3. This script was made for educational purposes
 4. I am not responsible for your actions
-
+5. Credits for this piece of code go to <a href="https://www.github.com/useragents">useragents</a>
 ---------------------------------------
 ### Main Issues & Problems
 <h3>I will be adding them soon</h3>
